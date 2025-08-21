@@ -1,0 +1,5 @@
+git add .
+git commit -m "초기설정"
+git push
+
+git pull origin main
